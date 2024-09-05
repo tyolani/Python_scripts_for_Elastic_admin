@@ -1,5 +1,6 @@
 """
 Here is a Python script that reads a file called emails.txt, extracts the user ID part of the email (the part before the @ symbol), and writes the extracted user IDs to a new file called userid.txt.
+This is useful when creating users on Elastic and you only want to use the ID part given email addresses
 """
 
 
